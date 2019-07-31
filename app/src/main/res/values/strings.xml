@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZimadTest</string>
+    <string name="tab_one">tab 1</string>
+    <string name="tab_two">tab 2</string>
+</resources>

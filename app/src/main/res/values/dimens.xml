@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_animal_padding">24dp</dimen>
+    <dimen name="item_animal_image_size">80dp</dimen>
+    <dimen name="item_animal_text_margin_start">16dp</dimen>
+    <dimen name="item_animal_text_margin_top">8dp</dimen>
+
+    <dimen name="animal_details_image_padding">4dp</dimen>
+    <dimen name="animal_details_text_margin_top">8dp</dimen>
+    <dimen name="animal_details_text_margin_start">16dp</dimen>
+</resources>
